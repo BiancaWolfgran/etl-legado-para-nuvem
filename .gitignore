@@ -1,0 +1,7 @@
+# Nunca versionar dados reais nem o painel
+*.pbix
+*.csv
+*.xlsx
+*.xls
+staging/
+__pycache__/
